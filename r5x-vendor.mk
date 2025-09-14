@@ -394,7 +394,6 @@ PRODUCT_PACKAGES += \
     libq3dtools_esx \
     android.hardware.bluetooth@1.0-impl-qti \
     audio.bluetooth_qti.default \
-    audio.primary.trinket \
     vendor.oppo.hardware.camera.oppoAlgoProcessService@1.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.0-impl \
     vendor.qti.hardware.bluetooth_audio@2.1-impl \
@@ -426,8 +425,6 @@ PRODUCT_PACKAGES += \
     libarcsoft_low_light_hdr \
     libarcsoft_smart_denoise \
     libaudcal \
-    libaudioEngineerTest \
-    libaudio_log_utils \
     libaudioalsa \
     libaudioconfigstore \
     libaudioparsers \
