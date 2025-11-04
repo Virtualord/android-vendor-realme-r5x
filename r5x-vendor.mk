@@ -1963,7 +1963,6 @@ PRODUCT_PACKAGES += \
     loc_launcher \
     lowi-server \
     mm-qcamera-app \
-    msm_irqbalance \
     netmgrd \
     oppoalgo_daemon \
     pd-mapper \
@@ -1971,7 +1970,6 @@ PRODUCT_PACKAGES += \
     pm-service \
     port-bridge \
     power_off_alarm \
-    ppd \
     qrtr-cfg \
     qrtr-lookup \
     qrtr-ns \
