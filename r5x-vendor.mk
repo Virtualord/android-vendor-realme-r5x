@@ -409,12 +409,10 @@ PRODUCT_PACKAGES += \
     libOppoAPSMemMgr \
     libOppoAlgoClient \
     libQSEEComAPI \
-    libVkLayer_q3dtools \
     libacdb-fts \
     libacdbloader \
     libacdbrtac \
     libadiertac \
-    libadreno_app_profiles \
     libadreno_utils \
     libadsp_default_listener \
     libadsprpc \
@@ -439,7 +437,6 @@ PRODUCT_PACKAGES += \
     libdsutils \
     libfastcvdsp_stub \
     libfastcvopt \
-    libgpudataproducer \
     libgsl \
     libhypnusclient \
     libidl \
@@ -461,7 +458,6 @@ PRODUCT_PACKAGES += \
     libmpbase \
     liboppo_log_print \
     liboppoalgolib \
-    libpvr \
     libqcbor \
     libqcci_legacy \
     libqcodec2 \
